@@ -4,7 +4,7 @@
 | (+54) 341 3592953                  |
 | mestresebastianunr@gmail.com       |
 
-
+--------
 
 ## EXPERIENCIA
 ### Holistor S.A. - *Desarrollador en Ionic 4*
