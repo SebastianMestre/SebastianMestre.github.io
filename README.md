@@ -22,13 +22,17 @@ Instituto Politecnico Superior en Universidad Nacional de Rosario
 --------
 
 ## PROYECTOS
-### [NanoNetwork](https://github.com/SebastianMestre/nanoNetwork) — *Biblioteca de Redes Neuronales en C++*
+### [NanoNetwork](https://github.com/SebastianMestre/nanoNetwork)
+*Biblioteca de Redes Neuronales en C++*
 
-### [BFCT](https://github.com/SebastianMestre/BFCT) — *Compilador y Optimizador para un Esolang*
+### [BFCT](https://github.com/SebastianMestre/BFCT)
+*Compilador y Optimizador para un Esolang*
 
-### Ray Tracer — *Motor de renderizado basado en rayos*
+### Ray Tracer
+*Motor de renderizado basado en rayos*
 
-### [Labrador](https://github.com/Espotek/Labrador) — *Contribuidor a Proyecto Open Source*+
+### [Labrador](https://github.com/Espotek/Labrador)
+*Contribuidor a Proyecto Open Source*
 
 --------
 
