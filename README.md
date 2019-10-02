@@ -3,7 +3,7 @@
  - (+54) 341 3592953
  - mestresebastianunr@gmail.com
 
-## Experiencia
+## EXPERIENCIA
 ### Holistor S.A. - *Desarrollador en Ionic 4*
 #### MAYO DE 2019 - NOVIEMBRE DE 2019
 Como parte de las prácticas profesionalizantes, fui parte del equipo de desarrollo de la aplicación DEALocator.
@@ -12,10 +12,14 @@ Como parte de las prácticas profesionalizantes, fui parte del equipo de desarro
 #### ENERO DE 2019 - PRESENTE
 Desarrollé el front end y el back end del sitio web de la empresa.
 
+--------
+
 ## EDUCACIÓN
 ### IPS, UNR - *Educación Secundaria Tecnica en Informática*
 #### MARZO DE 2014 - DICIEMBRE DE 2019
 Instituto Politecnico Superior en Universidad Nacional de Rosario
+
+--------
 
 ## PROYECTOS
 ### NanoNetwork — *Biblioteca de Redes Neuronales en C++*
@@ -29,6 +33,8 @@ no publicado
 
 ### Labrador — *Contribuidor a Proyecto Open Source*
 [https://github.com/Espotek/Labrador](https://github.com/Espotek/Labrador)
+
+--------
 
 ## HABILIDADES
  - Programación Competitiva (3 años).
@@ -44,12 +50,18 @@ no publicado
  - Uso de Bash. (3 años).
  - Uso de Blender 3D (3 años).
 
+--------
+
 ## IDIOMAS
  - Español, nativo.
  - Inglés, fluido.
 
+--------
+
 ## SOBRE MÍ
 Me fascinan los gráficos de computadora. Me gusta tocar la guitarra y el piano (aunque no sé tocar bien). Disfruto de cocinar, y cebo los mejores mates.
+
+--------
 
 ## RECONOCIMIENTOS
  - **TAP 2019 — *Puesto 4*** - Torneo Argentino de Programación.
@@ -61,6 +73,8 @@ Me fascinan los gráficos de computadora. Me gusta tocar la guitarra y el piano 
  - **OIA Nivel 2 2017 — *Puesto 1*** - Olimpiada Informática Argentina.
  - **Tecnomate 2018 — *Puesto 1*** - Competencia Organizada por UTN Santa Fe.
  - **Tecnomate 2017 — *Puesto 1*** - Competencia Organizada por UTN Santa Fe.
+
+--------
 
 ## LECTURAS
  - **The Art of Computer Programming I** - Donald E. Knuth
