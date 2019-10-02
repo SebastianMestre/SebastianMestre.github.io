@@ -1,11 +1,7 @@
-# Sebastian Mestre
-Desarrollador - https://github.com/SebastianMestre
-
  - Gould 860
  - Rosario, Santa Fe S2000
  - (+54) 341 3592953
  - mestresebastianunr@gmail.com
-
 
 ## Experiencia
 ### Holistor S.A. - *Desarrollador en Ionic 4*
