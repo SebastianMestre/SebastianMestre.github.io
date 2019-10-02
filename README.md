@@ -1,8 +1,10 @@
 
-| Dirección | Gould 860, Rosario, Santa Fe S2000 |
-| --------- | ---------------------------------- |
-| Teléfono  | (+54) 341 3592953                  |
-| E-mail    | mestresebastianunr@gmail.com       |
+| Gould 860, Rosario, Santa Fe S2000 |
+| ---------------------------------- |
+| (+54) 341 3592953                  |
+| mestresebastianunr@gmail.com       |
+
+
 
 ## EXPERIENCIA
 ### Holistor S.A. - *Desarrollador en Ionic 4*
