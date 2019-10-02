@@ -62,7 +62,7 @@ Me fascinan los gráficos de computadora. Me gusta tocar la guitarra y el piano 
  - **Tecnomate 2018 — *Puesto 1*** - Competencia Organizada por UTN Santa Fe.
  - **Tecnomate 2017 — *Puesto 1*** - Competencia Organizada por UTN Santa Fe.
 
-# LECTURAS
+## LECTURAS
  - **The Art of Computer Programming I** - Donald E. Knuth
  - **From Mathematics to Generic Programming** - Alexander A. Stepanov - Daniel E. Rose
  - **A Reflectance Model for Computer Graphics** - Robert L. Cook - Kenneth E. Torrance
