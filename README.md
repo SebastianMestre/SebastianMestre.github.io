@@ -19,16 +19,16 @@ Instituto Politecnico Superior en Universidad Nacional de Rosario
 
 ## PROYECTOS
 ### NanoNetwork — *Biblioteca de Redes Neuronales en C++*
-https://github.com/SebastianMestre/nanoNetwork
+[https://github.com/SebastianMestre/nanoNetwork](https://github.com/SebastianMestre/nanoNetwork)
 
 ### BFCT — *Compilador y Optimizador para un Esolang*
-https://github.com/SebastianMestre/BFCT
+[https://github.com/SebastianMestre/BFCT](https://github.com/SebastianMestre/BFCT)
 
 ### Ray Tracer — *Motor de renderizado basado en rayos*
 no publicado
 
 ### Labrador — *Contribuidor a Proyecto Open Source*
-https://github.com/Espotek/Labrador
+[https://github.com/Espotek/Labrador](https://github.com/Espotek/Labrador)
 
 ## HABILIDADES
  - Programación Competitiva (3 años).
