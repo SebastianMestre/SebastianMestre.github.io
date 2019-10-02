@@ -5,34 +5,34 @@
 
 ## EXPERIENCIA
 ### Holistor S.A. - *Desarrollador en Ionic 4*
-#### MAYO DE 2019 - NOVIEMBRE DE 2019
+###### MAYO DE 2019 - NOVIEMBRE DE 2019
 Como parte de las prácticas profesionalizantes, fui parte del equipo de desarrollo de la aplicación DEALocator.
 
 ### Corpus Libros - *Desarrollador web full stack*
-#### ENERO DE 2019 - PRESENTE
+###### ENERO DE 2019 - PRESENTE
 Desarrollé el front end y el back end del sitio web de la empresa.
 
 --------
 
 ## EDUCACIÓN
 ### IPS, UNR - *Educación Secundaria Tecnica en Informática*
-#### MARZO DE 2014 - DICIEMBRE DE 2019
+###### MARZO DE 2014 - DICIEMBRE DE 2019
 Instituto Politecnico Superior en Universidad Nacional de Rosario
 
 --------
 
 ## PROYECTOS
 ### NanoNetwork — *Biblioteca de Redes Neuronales en C++*
-[https://github.com/SebastianMestre/nanoNetwork](https://github.com/SebastianMestre/nanoNetwork)
+###### [https://github.com/SebastianMestre/nanoNetwork](https://github.com/SebastianMestre/nanoNetwork)
 
 ### BFCT — *Compilador y Optimizador para un Esolang*
-[https://github.com/SebastianMestre/BFCT](https://github.com/SebastianMestre/BFCT)
+###### [https://github.com/SebastianMestre/BFCT](https://github.com/SebastianMestre/BFCT)
 
 ### Ray Tracer — *Motor de renderizado basado en rayos*
-no publicado
+###### no publicado
 
 ### Labrador — *Contribuidor a Proyecto Open Source*
-[https://github.com/Espotek/Labrador](https://github.com/Espotek/Labrador)
+###### [https://github.com/Espotek/Labrador](https://github.com/Espotek/Labrador)
 
 --------
 
