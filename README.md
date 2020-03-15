@@ -14,8 +14,9 @@ Como parte de las prácticas profesionalizantes, fui parte del equipo de desarro
 --------
 
 ## EDUCACIÓN
-### LCC, UNR - *Licenciatura en Ciencias de la Computacion*
+### LCC, UNR - *Educación Universitaria*
 ###### MARZO DE 2020 - ACTUALIDAD
+Licenciatura en Ciencias de la Computacion en Universidad Nacional de Rosario
 
 ### IPS, UNR - *Educación Secundaria Tecnica en Informática*
 ###### MARZO DE 2014 - DICIEMBRE DE 2019
