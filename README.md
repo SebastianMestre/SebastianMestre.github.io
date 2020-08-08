@@ -25,6 +25,10 @@ Instituto Politecnico Superior en Universidad Nacional de Rosario
 --------
 
 ## PROYECTOS
+
+### [Jasper](https://github.com/SebastianMestre/Jasper)
+*Lenguaje de programacion de alto nivel*
+
 ### [DeltaMind](https://github.com/SebastianMestre/deltaMind)
 *Implementacion de Redes Neuronales en C++*
 
@@ -60,11 +64,6 @@ Instituto Politecnico Superior en Universidad Nacional de Rosario
 ## IDIOMAS
  - Español, nativo.
  - Inglés, fluido.
-
---------
-
-## SOBRE MÍ
-Me fascinan los gráficos de computadora. Me gusta tocar la guitarra y el piano (aunque no sé tocar bien). Disfruto de cocinar, y cebo los mejores mates.
 
 --------
 
