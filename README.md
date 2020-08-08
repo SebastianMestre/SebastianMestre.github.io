@@ -47,15 +47,15 @@ Instituto Politecnico Superior en Universidad Nacional de Rosario
 --------
 
 ## HABILIDADES
+ - C++ (4 años).
+ - C (4 años).
+ - Javascript (6 años).
+ - Typescript (2 años).
  - Programación Competitiva (4 años).
- - C++ Avanzado (4 años).
- - C Avanzado (4 años).
- - Javascript Avanzado (6 años).
- - Typescript Intermedio (2 años).
- - PHP Básico (1 año).
- - Python Básico (1 año).
- - Haskell Básico (1 año).
- - C# Básico (1 años).
+ - PHP (Básico) (1 año).
+ - Python (Básico) (1 año).
+ - Haskell (Básico) (1 año).
+ - C# (Básico) (1 años).
  - Uso de Bash. (3 años).
  - Uso de Blender 3D (3 años).
 
@@ -68,6 +68,8 @@ Instituto Politecnico Superior en Universidad Nacional de Rosario
 --------
 
 ## RECONOCIMIENTOS
+ - **OIA Selectivo 2020 — *Puesto 3*** - Olimpiada Informática Argentina.
+ - **OIA Nivel 3 2019 — *Puesto 1*** - Olimpiada Informática Argentina.
  - **TAP 2019 — *Puesto 4*** - Torneo Argentino de Programación.
  - **IOI Azerbaiyan 2019 — *Puesto 265*** - International Olympiad in Informatics.
  - **OIA Selectivo 2019 — *Puesto 4*** - Olimpiada Informática Argentina.
@@ -78,3 +80,9 @@ Instituto Politecnico Superior en Universidad Nacional de Rosario
  - **Tecnomate Nivel Secundario 2019 — *Puesto 1*** - Competencia Organizada por UTN Santa Fe.
  - **Tecnomate Nivel Secundario 2018 — *Puesto 1*** - Competencia Organizada por UTN Santa Fe.
  - **Tecnomate Nivel Secundario 2017 — *Puesto 1*** - Competencia Organizada por UTN Santa Fe.
+
+--------
+
+## INTERESES
+
+Me interesa la programación gráfica, la programación de bajo nivel, y como esta última se relaciona con la implementación eficiente de algoritmos.
